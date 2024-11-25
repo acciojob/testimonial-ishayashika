@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body {
+	background-color: #f5f5f5;
+}
+.box1 {
+	padding: 0px;
+	margin: 10px;
+	border: 1px solid #f5f5f5;
+	background-color: white;
+}
+#author1 {
+	text-align: right;
+	font-style: italic;
+	margin-right:10px;
+}
+#text1 {
+	margin-left: 10px;
+}
+
+.box2 {
+	padding: 0px;
+	margin: 10px;
+	border: 1px solid #f5f5f5;
+	background-color: white;
+}
+#author2 {
+	text-align: right;
+	font-style: italic;
+	margin-right:10px;
+}
+#text2{
+	margin-left: 10px;
+}
